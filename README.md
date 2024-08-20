@@ -31,10 +31,4 @@ Before you begin, ensure you have the following installed on your local machine:
 - [Node.js](https://nodejs.org/) (v14 or higher)
 - [npm](https://www.npmjs.com/) (v6 or higher)
 
-## Getting Started
 
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/string-calculator.git
-cd string-calculator
